@@ -13,3 +13,8 @@ git clone https://github.com/pypa/sampleproject.git
 #>>>sampleproject.main()
 #
 #で実行可能
+
+#もしくは
+#pip install -e /usr/local/pypi/sampleproject
+#等でinstall可能
+
